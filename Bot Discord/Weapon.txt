@@ -1,0 +1,51 @@
+-------------------------------------Bois------------------------------------------------------
+
+Normal wood :
+bois normal item de base
+
+Pine wood : 
+plus fort que le bois normal item common généralement
+
+Ebony wood :
+Bois rare
+Item beaucoup plus fort item rare voir épic généralement
+Orienté stat void
+
+Crimson wood :
+Bois opposé de l'ébony et rare
+Item beaucoup plus fort item rare voir épic généralement
+Orienté stat blood
+
+Magic wood :
+Bois commun mais difficile d'accès (zone magique dans la tour)
+Item orienté magie
+
+-------------------------------------Pierre------------------------------------------------------
+
+Stone :
+Au dessus du bois
+Facile d'accès au début
+
+Obsidian :
+Pierre lourde
+Item orienté défense et item à bas speed attack
+
+Angélite :
+Pierre précieuse rare
+Item épic voir légendaire
+Orienté stat blood et magique
+
+Dumortierite :
+Pierre précieuse rare
+Item épic voir légendaire
+Orienté stat void et magique
+
+Malachite :
+
+Zincite :
+
+
+
+
+
+
